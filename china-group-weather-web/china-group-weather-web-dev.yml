@@ -1,6 +1,6 @@
 server:
   port: 8050
-  context-path: weatherweb
+  context-path: /weatherweb
 
 eureka:
   client:
