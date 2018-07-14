@@ -1,5 +1,3 @@
-test: I from gitHub weather web
-
 server:
   port: 8050
   context-path: weatherweb
