@@ -1,0 +1,6 @@
+test: I from gitHub weather web
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
