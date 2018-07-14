@@ -1,6 +1,13 @@
 test: I from gitHub weather web
 
+server:
+  port: 8050
+  context-path: weatherweb
+
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
+      
+weatherapp:
+  path: http://china-group-weather-app/weatherapp

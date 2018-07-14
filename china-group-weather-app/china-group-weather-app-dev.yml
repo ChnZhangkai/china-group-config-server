@@ -1,5 +1,9 @@
 test: I from gitHub weather app
 
+server:
+  port: 8060
+  context-path: /weatherapp
+
 eureka:
   client:
     serviceUrl:
