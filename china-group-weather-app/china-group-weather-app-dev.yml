@@ -2,6 +2,9 @@ server:
   port: 8060
   context-path: /weatherapp
 
+logging:
+  config: classpath:log4j2.xml
+
 eureka:
   client:
     serviceUrl:
