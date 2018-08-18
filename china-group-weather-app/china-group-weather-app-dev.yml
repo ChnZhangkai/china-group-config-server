@@ -18,14 +18,9 @@ spring:
   datasource:
     name: mysql
     type: com.alibaba.druid.pool.DruidDataSource
-#   本地数据库
-#    url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&useSSL=false
-#    username: root
-#    password: 123456
-#   阿里云ECS服务器数据库
-    url: jdbc:mysql://39.108.129.48:3306/test?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&useSSL=false
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&useSSL=false
     username: root
-    password: 'zhangkai19930321!#0719'
+    password: thisiszkdatabase!@ZK01
     driver-class-name: com.mysql.jdbc.Driver
     initial-size: 1
     min-idle: 1
