@@ -42,3 +42,4 @@ spring:
 hf:
   weather:
     key: 48f94a429e90427da315ec600c3ae43f
+    imgPrfix: https://lg-27ys038g-1256993941.cos.ap-shanghai.myqcloud.com/heWeatherIcon/
