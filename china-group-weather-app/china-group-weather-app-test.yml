@@ -1,5 +1,5 @@
 server:
-  port: 8060
+  port: 80
   context-path: /weatherapp
 
 logging:
