@@ -19,8 +19,8 @@ spring:
     name: mysql
     type: com.alibaba.druid.pool.DruidDataSource
     url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&useSSL=false
-    username: root
-    password: thisiszkdatabase!@ZK01
+    username: yiyaappuser
+    password: 39.108.83.253YiyaApp
     driver-class-name: com.mysql.jdbc.Driver
     initial-size: 1
     min-idle: 1
